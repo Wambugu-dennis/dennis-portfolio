@@ -1,2 +1,2 @@
-# dennis-portfolio
+# portfolio
 portfolio template
